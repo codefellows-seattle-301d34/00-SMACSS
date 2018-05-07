@@ -15,3 +15,17 @@ nav li {
   float: left;
   padding-right: 2px;
 }
+
+.date {
+  float: left;
+}
+
+.print {
+  text-decoration: none;
+  padding-left: 30px;
+  float: right;
+}
+
+.print img {
+  margin-right: 3px;
+}
